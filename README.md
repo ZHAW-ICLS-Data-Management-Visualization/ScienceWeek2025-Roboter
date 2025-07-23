@@ -61,10 +61,10 @@ Die Software ist gratis. Sie ermöglicht es uns, unsere Befehle an den Roboter z
 ## Schemata
 
 ### Schema für Fernsteuerungsbetrieb
-![Schema mit Fernsteuerung](schema_fritzing.png)
+![Schema mit Fernsteuerung](schema_fernbedienung.png)
 
-### Schema für Koninuierliches, sinoidales oder selbstlernendes Laufen
-![Schema mit XYZ](schema_fritzing.png)
+### Schema für Koninuierliches, sinoidales oder selbstlernendes Laufen (wie oben aber ohne Fernbedienungsteile)
+![Schema mit XYZ](schema_learning.png)
 
 ## Code Schnipsel
 
