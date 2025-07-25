@@ -1,5 +1,4 @@
-> [!NOTE]  
-> # >> Direktlink hierher: https://xsimulation.ch/sw25 <<
+# >> Direktlink hierher: https://xsimulation.ch/sw25 <<
 
 
 # Selbstlernende Roboter programmieren und testen im Rahmen der ZHAW Science Week 2025.
