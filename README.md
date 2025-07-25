@@ -69,7 +69,7 @@ Die Software ist gratis. Sie ermöglicht es uns, unsere Befehle an den Roboter z
 ### Kontinuierliches Laufen (3 Positionen)
 [Code für kontinuierliches Laufen](./kontinuierlich/kontinuierlich.ino)
 
-### Kontinuierliches Laufen (Sinus)
+### Kontinuierliches Laufen (Sinus mit Variablen)
 [Code für die Fernsteuerung](./sinus/sinus.ino)
 
 ### Selbstlernendes Laufen
