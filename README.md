@@ -4,16 +4,16 @@
 
 "In diesem Kurs baust du einen kleinen Roboter, der sich selbst fortbewegen kann. Im ersten Teil programmierst du Bewegungen und versuchst, den Bewegungsablauf zu optimieren. Im zweiten Teil bauen wir ein Stück in die Software ein, das selbstlernend ist. Danach werden wir testen, ob die selbstlernende Variante besser funktioniert als die, die wir programmiert haben." Aus dem Flyer der ZHAW
 
-# Materialliste
+# Materialliste 🧰
 Wir arbeiten mit überall erhältlichen Mikroelektronik-Elementen. Hier unsere Materialliste, in diesem Jahr bestellt bei reichelt.com - andere Bezugsquellen sind bastelgarage.ch, 3djake.ch, digitec.ch, mouser.ch, ... es gibt viele Anbieter, meistens erhält man die gleiche Hardware.
 
-## Hardware
+## Hardware 🛠️
 
-### Arduino Uno
+### Arduino Uno 🖥️
 https://www.reichelt.com/ch/de/shop/produkt/arduino_uno_rev_3_smd-variante_atmega328_usb-119045  
 Unsere Rechnungseinheit
 
-### Breadboard transparent
+### Breadboard transparent 🍞
 https://www.reichelt.com/ch/de/shop/produkt/experimentier-steckboard_170_kontakte_transparent-282595  
 Die Basis für unsere Verkabelung
 
@@ -33,15 +33,17 @@ Die farbigen Verbindungskäbelchen
 https://www.reichelt.com/ch/de/shop/produkt/entwicklerboards_-_beschleunigung_gyroskop_mit_header_mpu-60-266105  
 Er zeigt uns an, ob sich unser Roboter bewegt
 
-### Servo-Motoren
+### Servo-Motoren 🏎️
 https://www.reichelt.com/ch/de/shop/produkt/servo_high_end_micro_analog-238316  
 Sie bewegen die Klammern und ermöglichen es dem Roboter, sich zu bewegen
 
-### Potentiometer
+### Potentiometer 🔄  
+https://...  
+Sie bilden die Eingabemglichkeit für die Fernbedienung
 https://...  
 Sie bilden die Eingabemglichkeit für die Fernbedienung
 
-### Li-Ionen-Akku
+### Li-Ionen-Akku 🔋
 https://www.reichelt.com/ch/de/shop/produkt/li-ion-akku_9v_block_7_4_v_500_mah_usb-c_2er-pack-372316  
 Die akkus für den Betrieb im freien Feld, fernab von einem Computer
 
@@ -52,25 +54,25 @@ Diese Klammern machen aus den rund drehenden Servo-Motoren richtige Arme oder Be
 ### Diverses Kleinmaterial (Schräubchen, Muttern, Klebeband, Mausmatte, Werkzeug, Kartonschachtel)
 Was so rumliegt
 
-## Software
+### Software 🖥️
 
 ### Arduino IDE
 https://www.arduino.cc/en/software/  
 Die Software ist gratis. Sie ermöglicht es uns, unsere Befehle an den Roboter zu übermitteln.
 
-## Verbindungs-Schema
-![Schema mit Fernsteuerung](schema_fernbedienung.png)
+### Steckbrückenkabel 🧵
+![Verbindungs-Schema](schema_fernbedienung.png)
 
 ## Code Schnipsel
 
 ### Fernsteuerung
-[Code für die Fernsteuerung](./fernsteuerung/fernsteuerung.ino)
+🕹️ [Code für die Fernsteuerung](./fernsteuerung/fernsteuerung.ino)
 
 ### Kontinuierliches Laufen (3 Positionen)
-[Code für kontinuierliches Laufen](./kontinuierlich/kontinuierlich.ino)
+⚙️ [Code für kontinuierliches Laufen](./kontinuierlich/kontinuierlich.ino)
 
 ### Kontinuierliches Laufen (Sinus mit Variablen)
-[Code für die Fernsteuerung](./sinus/sinus.ino)
+🌊 [Code für die Fernsteuerung](./sinus/sinus.ino)
 
 ### Selbstlernendes Laufen
-[Code für die Fernsteuerung](./selbstlernend/selbstlernend.ino)
+🤖 [Code für die Fernsteuerung](./selbstlernend/selbstlernend.ino)
