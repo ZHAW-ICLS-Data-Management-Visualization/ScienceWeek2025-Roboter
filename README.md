@@ -69,13 +69,13 @@ Die Software ist gratis. Sie ermöglicht es uns, unsere Befehle an den Roboter z
 ## Code Schnipsel
 
 ### Fernsteuerung
-[Code für die Fernsteuerung](./code_fernsteuerung.ino)
+[Code für die Fernsteuerung](./fernsteuerung/fernsteuerung.ino)
 
 ### Kontinuierliches Laufen (3 Positionen)
-[Code für kontinuierliches Laufen](./code_kontinuierlich.ino)
+[Code für kontinuierliches Laufen](./kontinuierlich/kontinuierlich.ino)
 
 ### Kontinuierliches Laufen (Sinus)
-[Code für die Fernsteuerung](./code_sinus.ino)
+[Code für die Fernsteuerung](./sinus/sinus.ino)
 
 ### Selbstlernendes Laufen
-[Code für die Fernsteuerung](./code_selbstlernend.ino)
+[Code für die Fernsteuerung](./selbstlernend/selbstlernend.ino)
