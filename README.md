@@ -58,13 +58,8 @@ Was so rumliegt
 https://www.arduino.cc/en/software/  
 Die Software ist gratis. Sie ermöglicht es uns, unsere Befehle an den Roboter zu übermitteln.
 
-## Schemata
-
-### Schema für Fernsteuerungsbetrieb
+## Verbindungs-Schema
 ![Schema mit Fernsteuerung](schema_fernbedienung.png)
-
-### Schema für Koninuierliches, sinoidales oder selbstlernendes Laufen (wie oben aber ohne Fernbedienungsteile)
-![Schema mit XYZ](schema_learning.png)
 
 ## Code Schnipsel
 
