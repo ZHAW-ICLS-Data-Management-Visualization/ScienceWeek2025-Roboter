@@ -41,7 +41,7 @@ https://www.reichelt.com/ch/de/shop/produkt/servo_high_end_micro_analog-238316
 Sie bewegen die Klammern und ermöglichen es dem Roboter, sich zu bewegen
 
 ### Potentiometer 🔄  
-https://www.reichelt.com/ch/de/shop/kategorie/4mm_potis-3134
+https://www.reichelt.com/ch/de/shop/kategorie/4mm_potis-3134   
 Sie bilden die Eingabemglichkeit für die Fernbedienung
 
 ### Li-Ionen-Akku 🔋
