@@ -1,11 +1,12 @@
+> [!NOTE]  
+> # >> Direktlink hierher: https://xsimulation.ch/sw25 <<
+
+
 # Selbstlernende Roboter programmieren und testen im Rahmen der ZHAW Science Week 2025.
 
 ![Hauptbild des Projekts](hauptfoto.jpg)
 
 "In diesem Kurs baust du einen kleinen Roboter, der sich selbst fortbewegen kann. Im ersten Teil programmierst du Bewegungen und versuchst, den Bewegungsablauf zu optimieren. Im zweiten Teil bauen wir ein Stück in die Software ein, das selbstlernend ist. Danach werden wir testen, ob die selbstlernende Variante besser funktioniert als die, die wir programmiert haben." Aus dem Flyer der ZHAW
-
-> [!NOTE]  
-> # Direktlink hierher: https://xsimulation.ch/sw25
 
 # Materialliste 🧰
 Wir arbeiten mit überall erhältlichen Mikroelektronik-Elementen. Hier unsere Materialliste, in diesem Jahr bestellt bei reichelt.com - andere Bezugsquellen sind bastelgarage.ch, 3djake.ch, digitec.ch, mouser.ch, ... es gibt viele Anbieter, meistens erhält man die gleiche Hardware.
