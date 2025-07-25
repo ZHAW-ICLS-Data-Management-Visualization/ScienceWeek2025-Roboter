@@ -4,6 +4,9 @@
 
 "In diesem Kurs baust du einen kleinen Roboter, der sich selbst fortbewegen kann. Im ersten Teil programmierst du Bewegungen und versuchst, den Bewegungsablauf zu optimieren. Im zweiten Teil bauen wir ein Stück in die Software ein, das selbstlernend ist. Danach werden wir testen, ob die selbstlernende Variante besser funktioniert als die, die wir programmiert haben." Aus dem Flyer der ZHAW
 
+[!NOTE]  
+Direktlink hierher: https://xsimulation.ch/sw25
+
 # Materialliste 🧰
 Wir arbeiten mit überall erhältlichen Mikroelektronik-Elementen. Hier unsere Materialliste, in diesem Jahr bestellt bei reichelt.com - andere Bezugsquellen sind bastelgarage.ch, 3djake.ch, digitec.ch, mouser.ch, ... es gibt viele Anbieter, meistens erhält man die gleiche Hardware.
 
@@ -38,8 +41,6 @@ https://www.reichelt.com/ch/de/shop/produkt/servo_high_end_micro_analog-238316
 Sie bewegen die Klammern und ermöglichen es dem Roboter, sich zu bewegen
 
 ### Potentiometer 🔄  
-https://...  
-Sie bilden die Eingabemglichkeit für die Fernbedienung
 https://...  
 Sie bilden die Eingabemglichkeit für die Fernbedienung
 
