@@ -25,7 +25,7 @@ Die Basis für die Fernsteuerung
 https://www.reichelt.com/ch/de/shop/produkt/usb_2_0_kabel_a_stecker_auf_b_stecker_schwarz_0_5_m-202193  
 Zum Upload der Software auf den Arduino
 
-### Steckbrückenkabel
+### Steckbrückenkabel 🌈
 https://www.reichelt.com/ch/de/shop/produkt/entwicklerboards_-_steckbrueckenkabel_40_pole_m_m_40_cm-340347  
 Die farbigen Verbindungskäbelchen
 
@@ -54,7 +54,7 @@ Diese Klammern machen aus den rund drehenden Servo-Motoren richtige Arme oder Be
 ### Diverses Kleinmaterial (Schräubchen, Muttern, Klebeband, Mausmatte, Werkzeug, Kartonschachtel)
 Was so rumliegt
 
-### Software 🖥️
+## Software 🖥️
 
 ### Arduino IDE
 https://www.arduino.cc/en/software/  
