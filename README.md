@@ -77,3 +77,9 @@ Die Software ist gratis. Sie ermöglicht es uns, unsere Befehle an den Roboter z
 
 ### Selbstlernendes Laufen
 🤖 [Code für die Fernsteuerung](./selbstlernend/selbstlernend.ino)
+
+# Ausblick in die Zukunft / Anwendungen
+
+## EPFL - EleBot - ein ElefantenRoboter mit Rüssel
+![EPFL EleBot](EPFL_elebot.png)
+https://www.youtube.com/watch?v=aKARkChpDVE
